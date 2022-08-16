@@ -1,0 +1,1 @@
+![alt text](assets/adım1.png)
